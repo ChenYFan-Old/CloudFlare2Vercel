@@ -1,6 +1,6 @@
 {
   "version": 2,
   "routes": [
-      {"src": "/(.*)","dest": "https://sv.cyfan.top:56642/$1"}
+      {"src": "/(.*)","dest": "http://sv.cyfan.top:56642/$1"}
   ]
 }
